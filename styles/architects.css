@@ -117,7 +117,7 @@ main > section {
 .facts-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-
+  margin-left: 3rem;
 }
 
 .fact-card {
